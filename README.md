@@ -1,7 +1,7 @@
 # How to make a NFT collection on Cardano using javascript.
 
 ## Prerequisites
-**Head toward the master branch
+## Head toward the master branch
 - cardano-node / cardano-cli set up on local machine (https://docs.cardano.org/projects/cardano-node/en/latest)
 - Node.js installed version 14
 - cardano-cli-js package installed
